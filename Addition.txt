@@ -2,3 +2,8 @@
 num1=int(input('Enter a number'))
 num2=int(input('Enter a number'))
 add= num1+num2
+
+//subtracting two numbers
+num1=int(input('Enter a number'))
+num2=int(input('Enter a number'))
+sub= num1-num2
